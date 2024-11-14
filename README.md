@@ -1,4 +1,5 @@
 Freshiah Mwaura 🌟
+
  Hey there!
 I’m Freshiah Mwaura—a digital forensic analyst by day, a creative coder, and a passionate mobile/web developer by night. Whether it's cracking a case, writing elegant code, or diving into a new gaming world, I’m always bringing my A-game.
 
@@ -15,7 +16,7 @@ Basic Machine Learning: Exploring predictive insights and data-driven decisions 
 🔥 Fun Fact
 I have an unshakable passion for everything to do with computers and gaming. Whether it’s building innovative software or immersing myself in virtual worlds, I live and breathe technology.
 
-🌈 My Journey
+ My Journey
 From tracing data trails in digital forensics to creating immersive digital experiences, I’m on a mission to blend technology and creativity. I’m constantly learning, evolving, and refining my skills, aiming to bring innovation and fresh ideas to every project.
 
 🌐 Let’s Connect
