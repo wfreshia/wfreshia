@@ -23,4 +23,4 @@ From tracing data trails in digital forensics to creating immersive digital expe
 If you’re into tech, gaming, or just want to chat, let’s connect! Find me on:
 
 GitHub: github.com/wfreshia/wfreshia/tree/mainwaura
-LinkedIn: linkedin.com/public-profile/settings
+LinkedIn: linkedin.com/public-profile
